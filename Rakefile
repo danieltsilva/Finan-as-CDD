@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Financas::Application.load_tasks
+Template::Application.load_tasks
